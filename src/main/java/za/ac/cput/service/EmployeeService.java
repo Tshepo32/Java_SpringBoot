@@ -25,8 +25,10 @@ public class EmployeeService implements IEmployeeService {
 
     @Override
     public Employee read(Long id) {
-        return repository.findById(id).orElse(null);
+        return repository.findById(id)
+                .orElseThrow(() -> new EntityNotFoundException("Employee with id " + id + " not found"));
     }
+
 
 //    @Override
 //    public Employee read(Long id) {

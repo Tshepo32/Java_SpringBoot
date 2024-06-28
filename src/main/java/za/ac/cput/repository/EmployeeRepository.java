@@ -6,8 +6,5 @@ import za.ac.cput.domain.Employee;
 
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, Long> {
-    Employee findEmployeeByFirstName(String firstName);
 
-//    void deleteEmployeeByFirstName(String firstName);
-//    void deleteEmployeeByLastName(String lastname);
 }

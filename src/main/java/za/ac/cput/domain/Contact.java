@@ -82,6 +82,7 @@ public class Contact implements Serializable {
         }
 
         public Contact build() {
+
             return new Contact(this);
         }
     }
