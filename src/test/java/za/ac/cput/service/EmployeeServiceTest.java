@@ -14,7 +14,6 @@ import za.ac.cput.factory.EmployeeFactory;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
-@TestMethodOrder(MethodOrderer.MethodName.class)
 class EmployeeServiceTest {
     @Autowired
     private EmployeeService employeeService;
@@ -23,7 +22,7 @@ class EmployeeServiceTest {
     private static Employee employee2;
 
     @BeforeEach
-    void a_setUp() {
+    void setUp() {
         employee1 = EmployeeFactory.buildEmployee(8795, "laffe", "Maleo", "Matin@cput.ac.za",523658, 25954);
         assertNotNull(employee1);
         System.out.println(employee1);
@@ -36,7 +35,7 @@ class EmployeeServiceTest {
     }
 
     @Test
-    void b_create() {
+    void create() {
         Employee created1 = employeeService.create(employee1);
         assertNotNull(created1);
         System.out.println(created1);
@@ -47,14 +46,14 @@ class EmployeeServiceTest {
     }
 
     @Test
-    void c_read() {
+    void read() {
         Employee rd = employeeService.read(employee1.getEmployeeNumber());
         assertNotNull(rd);
         System.out.println(rd);
     }
 
     @Test
-    void d_update() {
+    void update() {
         Contact editedContact = new Contact.Builder().copy(employee1.getContact())
                 .setMobile(584756).build();
         assertNotNull(editedContact);

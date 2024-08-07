@@ -5,39 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d0e67f7-af48-4bdb-8328-3b2c0c964f4d" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/my-react-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/CreateEmployee.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/CreateEmployee.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/EmployeeTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/GetAllEmployees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/Lorens.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/Tshepo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-react-app/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/controller/EmployeeControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-react-app/src/AddEmployee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-react-app/src/EmployeeService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/domain/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/domain/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/domain/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/repository/EmployeeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-react-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-react-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/CreateEmployee.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-react-app/src/CreateEmployee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/za/ac/cput/service/EmployeeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/service/EmployeeServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tshepo32&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tshepo32/Java_SpringBoot.git&quot;,
+    &quot;accountId&quot;: &quot;89ab087b-3e79-4c97-9b6b-2ca036eb9585&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -137,6 +124,21 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.start (1)">
+    <configuration name="EmployeeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.service" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.service.EmployeeServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/my-react-app/node_modules/react-scripts" />
@@ -162,16 +164,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/my-react-app/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="build" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/my-react-app/package.json" />
       <command value="run" />
@@ -196,11 +188,19 @@
       <list>
         <item itemvalue="npm.start (1)" />
         <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="JUnit.EmployeeServiceTest" />
         <item itemvalue="Jest.renders learn react link" />
         <item itemvalue="npm.test" />
-        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -225,6 +225,8 @@
       <workItem from="1718812075542" duration="3592000" />
       <workItem from="1719367140626" duration="3994000" />
       <workItem from="1719519927590" duration="5296000" />
+      <workItem from="1723058259450" duration="293000" />
+      <workItem from="1723066724683" duration="7367000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -256,11 +258,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/za/ac/cput/service/EmployeeService.java</url>
           <line>22</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/za/ac/cput/controller/EmployeeControllerTest.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
